@@ -1,0 +1,1508 @@
+{
+  "glossary": [
+    {
+      "Term_raw": "Ab Absurdo",
+      "Description_raw": "Latin: an evidentiary suggestion or statutory interpretation that is, or leads to, an absurdity."
+    },
+    {
+      "Term_raw": "Ab initio (ab init)",
+      "Description_raw": "From the beginning. can mean that breaking some terms in a long-running contract results in the contract having been broken from the start."
+    },
+    {
+      "Term_raw": "Acceleration Clause",
+      "Description_raw": "A clause in a contract that states that if a payment is missed, or some other default occurs (such as the debtor becoming insolvent), then the contract is fully due immediately."
+    },
+    {
+      "Term_raw": "Acceptance of goods/services",
+      "Description_raw": "As soon as goods/services have been delivered, any problems should be notified to the supplier immediately. Preferably this notification should be in writing and if verbal, confirmed in writing, immediately. The longer a delay in rejection the more difficult it will be to argue that your silence did not imply acceptance of the goods/services delivered. Where, as part of the acceptance process, there is commissioning and acceptance testing, these should be completed within an agreed timescale and any problems notified, in writing. Only when the acceptance tests have been completed will the formal acceptance and hence the performance of the contract be complete."
+    },
+    {
+      "Term_raw": "Acceptance of offer",
+      "Description_raw": "The unconditional agreement to an offer. this creates the contract. before acceptance, any offer can be withdrawn, but once accepted the contract is binding on both sides. any conditions have the effect of a counter offer that must be accepted by the other party."
+    },
+    {
+      "Term_raw": "Accord and Satisfaction",
+      "Description_raw": "The act of one party, having complied with its contractual obligation, accepting some type of compensation from the other party (usually money and of a lesser value) in lieu of enforcing the contract and holding the other party to their original obligation."
+    },
+    {
+      "Term_raw": "Acquiescence",
+      "Description_raw": "Action or inaction which binds a person legally even though it was not intended as such."
+    },
+    {
+      "Term_raw": "Addis v Gramophone, the Rule in",
+      "Description_raw": "A proposal of law that pain and suffering is not compensable for breach of contract."
+    },
+    {
+      "Term_raw": "Adhesion Contract",
+      "Description_raw": "A fine-print consumer form contract which is generally given to consumers at point-of-sale, with no opportunity for negotiation as to it's terms, and which, typically, sets out the terms and conditions of the sale to advantage the seller."
+    },
+    {
+      "Term_raw": "Advice notes/goods received notes",
+      "Description_raw": "A supplier advising that a consignment of contracted goods has been dispatched issues a goods advice note. A goods received note (GRN) is issued by the buyer to acknowledge delivery but not necessarily acceptance of a consignment. (See note on Acceptance of goods and services)"
+    },
+    {
+      "Term_raw": "Agency",
+      "Description_raw": "A fiduciary relationship between one person (a principal) and another (an agent) that the agent shall act on the principal's behalf."
+    },
+    {
+      "Term_raw": "Agent",
+      "Description_raw": "Somebody appointed to act on behalf of another person (known as the principal). the amount of authority to deal that the agent has is subject to agreement between the principal and the agent. however, unless told otherwise, third parties can assume the agent has full powers to deal."
+    },
+    {
+      "Term_raw": "Agreement",
+      "Description_raw": "A generic term for a legally-binding undertaking between the buyer and supplier, in terms of the obligations, relationships and responsibilities between them, that is commonly described as a contract. In it simplest form, an agreement can be verbal. The more usual approach is to make it in writing, using either a standard document (see purchase order) or a specifically prepared document (often described as a contract). Once an agreement has been made there is a commitment."
+    },
+    {
+      "Term_raw": "Aleatory Contract",
+      "Description_raw": "Civil law: a contract which depends on an uncertain event."
+    },
+    {
+      "Term_raw": "Allonge",
+      "Description_raw": "A piece of paper which has been attached to a contract, a check or any promissory note, on which to add signatures because there is not enough room on the main document."
+    },
+    {
+      "Term_raw": "Animus Contrahendi",
+      "Description_raw": "Latin: an intention to contract."
+    },
+    {
+      "Term_raw": "Antedate",
+      "Description_raw": "To date back; retroactively."
+    },
+    {
+      "Term_raw": "Antichresis",
+      "Description_raw": "Civil law: the pledge of real property as security for a debt."
+    },
+    {
+      "Term_raw": "Anticipatory Breach",
+      "Description_raw": "When a party to a contract receives an indication from the other party that they intend on not performing their contractual obligations."
+    },
+    {
+      "Term_raw": "Apportionment",
+      "Description_raw": "The division and distribution of something into proportionate parts; to each according to their share."
+    },
+    {
+      "Term_raw": "Approved list",
+      "Description_raw": "Also known as a trade list, eligible list or select list of potential suppliers. See supplier appraisal."
+    },
+    {
+      "Term_raw": "Arbitration",
+      "Description_raw": "The nomination of an independent person or body within a contract to solve disputes is a more economic and quicker mechanism than the law courts and one that tends to attract less publicity. Arbitration is common in works contracts."
+    },
+    {
+      "Term_raw": "Arrears",
+      "Description_raw": "A debt that is not paid on the due date adds up and accumulates in arrears."
+    },
+    {
+      "Term_raw": "As Is",
+      "Description_raw": "That a product is sold in the condition in which it then exists."
+    },
+    {
+      "Term_raw": "Assign",
+      "Description_raw": "To sell, give or otherwise transfer some legal right or responsibility to another."
+    },
+    {
+      "Term_raw": "Assignment/novation",
+      "Description_raw": "In law one party cannot unilaterally transfer or assign any if its liabilities or obligations under a contract but it may be able to assign its rights or some of them. One party can assign its liabilities and obligations to a third party but only if there is a trilateral agreement between the parties concerned. Such an agreement is called 'novation'. (not applicable in Scotland)"
+    },
+    {
+      "Term_raw": "Assumpsit",
+      "Description_raw": "Medieval era action for breach of contract."
+    },
+    {
+      "Term_raw": "Bad Faith",
+      "Description_raw": "Intent to deceive. A person who intentionally tries to deceive or mislead another in order to gain some advantage."
+    },
+    {
+      "Term_raw": "Bailee",
+      "Description_raw": "The person who receives property through a contract of bailment, from the bailor, and who may be committed to certain duties of care towards the property while it remains in his or her possession."
+    },
+    {
+      "Term_raw": "Bailment",
+      "Description_raw": "The transfer of possession of something (by the bailor) to another person (called the bailee) for some temporary purpose (eg. repair or storage) after which the property is either returned to the bailor or otherwise disposed of in accordance with the contract of bailment."
+    },
+    {
+      "Term_raw": "Bailor",
+      "Description_raw": "The person who temporarily transfers possession of property to another, the bailee, under a contract of bailment."
+    },
+    {
+      "Term_raw": "Banker's guarantee",
+      "Description_raw": "Some suppliers offer, or are required by the buyer, to provide at their own expense a promise from their bankers to underwrite any debt, default or failure of the supplier to perform its contract obligations."
+    },
+    {
+      "Term_raw": "Bankruptcy",
+      "Description_raw": "The formal recognition that a person cannot pay their debts as they are due. note this only applies to individuals, companies and partnerships that become insolvent are wound up."
+    },
+    {
+      "Term_raw": "Battle of the Forms",
+      "Description_raw": "Two persons intending to contract but tendering differing form contracts rendering the conclusion as to the terms of the contract, or a determination as to whether there was a contract, difficult."
+    },
+    {
+      "Term_raw": "Bid",
+      "Description_raw": "May also be known as a tender, quote or quotation: a supplier's offer to provide goods or services for consideration, in response to the buyer's enquiry or invitation to quote/tender."
+    },
+    {
+      "Term_raw": "Bid appraisal",
+      "Description_raw": "May also be known as bid (or tender) analysis, evaluation or assessment. The formal process of looking at suppliers' bids to identify which provides the best value for money. It may use various scoring techniques such as whole life costing to set out the components of the bids and compare them on a like-for-like basis. The outcome can be a ranking of the bids and a summary report that will assist the decision making process."
+    },
+    {
+      "Term_raw": "Bid conditioning",
+      "Description_raw": "A process whereby suppliers' bids are scrutinised for conformity with the enquiry documents. Errors and omissions are rectified and other points clarified, so that like-for-like evaluation of the bids can be made. This process should be distinguished from post tender negotiation."
+    },
+    {
+      "Term_raw": "Bill of lading",
+      "Description_raw": "Someone who wishes to move goods by sea can make a contract to have the goods carried on another person's ship. The bill of lading itself is a receipt to show the goods have been put on board, evidence of the terms of carriage and a document of title which can be used to transfer possession even if the goods are physically at sea."
+    },
+    {
+      "Term_raw": "Bill of material",
+      "Description_raw": "A list of materials, parts, components or sub-assemblies which comprise a product."
+    },
+    {
+      "Term_raw": "Blue-Pencil Severance",
+      "Description_raw": "Striking out an offending part of a legal document, such as a contract or a statute."
+    },
+    {
+      "Term_raw": "Bona fide",
+      "Description_raw": "In good faith. usually implies an amount of trust that the parties are acting without any hidden motives. the opposite is mala fides - in bad faith."
+    },
+    {
+      "Term_raw": "Bona vacantia",
+      "Description_raw": "Vacant property. refers to a situation where property or goods end up not being owned by anyone. this can happen if a person dies without heirs or a company is struck off without all its property being distributed. it can also occur where a contract becomes void and property under it cannot be restored to an owner. in the uk, any such property then belongs to the crown and expensive proceedings are required to get it back."
+    },
+    {
+      "Term_raw": "Breach of contract",
+      "Description_raw": "Failure by one party to a contract to uphold their part of the deal. a breach of contract will make the whole contract void and can lead to damages being awarded against the party which is in breach."
+    },
+    {
+      "Term_raw": "Break clause",
+      "Description_raw": "A clause that allows a tenant to end a lease at specific times during the period of the lease."
+    },
+    {
+      "Term_raw": "BSI",
+      "Description_raw": "The British Standards Institution. The national standards body in the UK, bringing together suppliers and users (including government) to draw up standards. These are numbered as identified by the prefix 'BS'."
+    },
+    {
+      "Term_raw": "Call For Tenders",
+      "Description_raw": "A property owner's invitation, sometimes at large, sometimes to a select group, for bids to complete a particular project."
+    },
+    {
+      "Term_raw": "Call-off agreements",
+      "Description_raw": "Also known as call-off contracts. See standing arrangements."
+    },
+    {
+      "Term_raw": "Capacity",
+      "Description_raw": "The power to acquire and assert legal rights."
+    },
+    {
+      "Term_raw": "Caveat emptor",
+      "Description_raw": "Buyer beware. this is a general rule that it is up to the buyer to find out if what they are buying is what they want. consumer regulations require certain information to be disclosed to consumers and insurance contracts are covered by the uberrimae fides - but many types of business contracts are covered by the caveat emptor rule."
+    },
+    {
+      "Term_raw": "Certainty of Terms",
+      "Description_raw": "A legal requirement of a valid offer to contract; that it must be precise and definite in order to be subject to acceptance."
+    },
+    {
+      "Term_raw": "Certificate of compliance",
+      "Description_raw": "A certificate issued by a supplier which warrants that goods supplied meet the buyer's specified requirements."
+    },
+    {
+      "Term_raw": "Chirograph",
+      "Description_raw": "A medieval form of contract which allowed for several verifiable authentic versions."
+    },
+    {
+      "Term_raw": "Choice of Law Clause",
+      "Description_raw": "A term of a contract which sets the jurisdiction for dispute resolution, or the applicable law, in the event of any dispute between the conrtracting parties."
+    },
+    {
+      "Term_raw": "CIF",
+      "Description_raw": "Transportation contract acronym for \"cost, insurance and freight\" usually in reference to the sale price being inclusive thereof."
+    },
+    {
+      "Term_raw": "CIPS",
+      "Description_raw": "Chartered Institute of Purchasing and Supply."
+    },
+    {
+      "Term_raw": "Civil Code",
+      "Description_raw": "A document in civil law jurisdictions that purports to be a compendium of the applicable law as it pertains to the citizen."
+    },
+    {
+      "Term_raw": "Civil Law",
+      "Description_raw": "A body of law derived and evolved directly from Roman Law, the primary feature of which is that laws are struck in writing; codified, and not determined, as in the common law, by the opinions of judges based on historic customs."
+    },
+    {
+      "Term_raw": "Close out",
+      "Description_raw": "Action on the part of a buyer to review the contract file after completion of the work. The buyer ensures that all documents are up-to-date and that they properly reflect and record the detail of the exercise. While a record should be held of reasons for changes to, for example, tender specifications only the final versions should be retained on file. This will reduce confusion in the event of receiving a Freedom of Information enquiry. A close-out report, reviewing the exercise, may be prepared and any lessons learnt summarised and shared with colleagues. This is also the ideal time to complete and file a vendor rating report on the supplier concerned."
+    },
+    {
+      "Term_raw": "Collateral",
+      "Description_raw": "Property which has been committed to guarantee a loan."
+    },
+    {
+      "Term_raw": "Collective agreement",
+      "Description_raw": "Term used for agreements made between employees and employers, usually involving trade unions. they often cover more than one organization. although these can be seen as contracts, they are governed by employment law, not contract law."
+    },
+    {
+      "Term_raw": "Collective Bargaining Agreement",
+      "Description_raw": "A contract on hiring, working conditions and dispute resolution between an employer and a union, the latter representing employees of a defined group."
+    },
+    {
+      "Term_raw": "Comfort letters",
+      "Description_raw": "Documents issued to back up an agreement but which do not have any contractual standing. they are often issued by a parent or associate company stating that the group will back up the position of a small company to improve its trading position. they always state that they are not intended to be legally binding. also known as letters of comfort."
+    },
+    {
+      "Term_raw": "Commitment",
+      "Description_raw": "The result of formalising an agreement by an act of acceptance. May also be used to describe the financial value of an agreement - the amount committed."
+    },
+    {
+      "Term_raw": "Common Law",
+      "Description_raw": "Judge-declared law. Law which exists and applies to a group on the basis of customs and legal precedents developed over hundreds of years in Britain."
+    },
+    {
+      "Term_raw": "Company seal",
+      "Description_raw": "An embossing press used to indicate the official signature of a company when accompanied by the signatures of two officers of the company. since 1989 it has been possible for a company to indicate its agreement without use of the seal, by two signatures (directors or company secretary) plus a formal declaration. however, some companies still prefer to use a seal and the articles of a company can override the law and require a seal to be used."
+    },
+    {
+      "Term_raw": "Compensatory Damages",
+      "Description_raw": "Damages that compensate the injured victim for injuries actually endured."
+    },
+    {
+      "Term_raw": "Competency",
+      "Description_raw": "An individual's ability to understand the nature and object of legal proceedings being presented, and to consult with counsel."
+    },
+    {
+      "Term_raw": "Competitive tendering",
+      "Description_raw": "Awarding contracts by the process of seeking competing tenders. See also Market Testing."
+    },
+    {
+      "Term_raw": "Condition Precedent",
+      "Description_raw": "A contractual condition that suspends the coming into effect of a contract unless or until a certain event takes place."
+    },
+    {
+      "Term_raw": "Condition Subsequent",
+      "Description_raw": "A condition in a contract that causes the contract to become invalid if a certain event occurs."
+    },
+    {
+      "Term_raw": "Conditions",
+      "Description_raw": "Major terms in a contract. conditions are the basis of any contract and if one of them fails or is broken, the contract is breached. these are in contrast to warranties, the other type of contract term, which are less important and will not usually lead to the breach of the contract - but rather an adjustment in price or a payment of damages."
+    },
+    {
+      "Term_raw": "Confidentiality agreement",
+      "Description_raw": "An agreement made to protect confidential information if it has to be disclosed to another party. this often happens during negotiations for a larger contract, when the parties may need to divulge information about their operations to each other. in this situation, the confidentiality agreement forms a binding contract not to pass on that information whether or not the actual contract is ever signed. also known as a non-disclosure agreement."
+    },
+    {
+      "Term_raw": "Confusion",
+      "Description_raw": "Civil law: grounds for extinguishing a contractual obligation when creditor and debtor become the same person."
+    },
+    {
+      "Term_raw": "Consensus ad idem",
+      "Description_raw": "Agreement on an idea. this is the concept that the parties to the contract must all be in agreement on the basis of the contract. if it is discovered that the parties were thinking different things, then there is no consensus and the contract is void."
+    },
+    {
+      "Term_raw": "Consideration",
+      "Description_raw": "In a contract each side must give some consideration to the other. often referred to as the quid pro quo - see the latin terms below. usually this is the price paid by one side and the goods supplied by the other. but it can be anything of value to the other party, and can be negative - eg someone promising not to exercise a right of access over somebody else's land in return for a payment would be a valid contract, even if there was no intention of ever using the right anyway."
+    },
+    {
+      "Term_raw": "Consignment stocking",
+      "Description_raw": "Stock items or lines held at the buyer's premises but owned by the supplier and not paid for until usage is replaced by the supplier. Alternatively, the supplier may hold the stock, at its own premises, for the buyer's exclusive use."
+    },
+    {
+      "Term_raw": "Construction",
+      "Description_raw": "The legal process of interpreting a phrase or document; of trying to find it’s meaning."
+    },
+    {
+      "Term_raw": "Consumer",
+      "Description_raw": "A person who buys goods or services but not as part of their business. a company can be a consumer for contracts not related to its business - especially for goods or services it buys for its employees. charities are also treated as consumers."
+    },
+    {
+      "Term_raw": "Contract",
+      "Description_raw": "Often used to describe a standalone document to set out the terms of the agreement between buyer and supplier, prepared to include specific conditions rather than the general conditions used in a standard purchase order."
+    },
+    {
+      "Term_raw": "Contract award notice",
+      "Description_raw": "Notice of award of contract published in the Official Journal of the European Union (OJEU) in fulfilment of requirements under the European Public Procurement Directives as implemented into UK legislation."
+    },
+    {
+      "Term_raw": "Contract Law",
+      "Description_raw": "That body of law which regulates the formation and enforcement of contracts."
+    },
+    {
+      "Term_raw": "Contract notice",
+      "Description_raw": "Notice published in the Official Journal of the European Union (OJEU) by contracting authorities inviting firms to tender in open, restricted or negotiated procedures under the European Public Procurement Directives as implemented into UK legislation."
+    },
+    {
+      "Term_raw": "Contracting out",
+      "Description_raw": "In government, used to describe testing the efficiency of in-house services against tenders from outside firms. Contracting out means placing a contract for such services with an outside supplier."
+    },
+    {
+      "Term_raw": "Contribution",
+      "Description_raw": "The right of a person who has discharged a common liability to recover proportionate share from the other(s) that were so liable."
+    },
+    {
+      "Term_raw": "Conveyance",
+      "Description_raw": "A deed that conveys property rights."
+    },
+    {
+      "Term_raw": "Copyright",
+      "Description_raw": "Related not to the protection of ideas, but to the form in which they are presented (eg literary, dramatic, musical and artistic work, printed editions of books and computer programmes)."
+    },
+    {
+      "Term_raw": "Cost insurance and freight (CIF)",
+      "Description_raw": "The supplier's price includes all carriage-associated costs from dispatch to port of receipt. Title for the goods passes at the point when the goods pass the ship's rail."
+    },
+    {
+      "Term_raw": "Cost plus",
+      "Description_raw": "Payment terms under which a supplier is reimbursed for actual (ascertained) costs plus an addition for profit - either an agreed fixed amount or a percentage of costs."
+    },
+    {
+      "Term_raw": "Counter Offer",
+      "Description_raw": "A reply to an offer which is conditional."
+    },
+    {
+      "Term_raw": "Covenant",
+      "Description_raw": "A written document in which signatories either commit themselves to do a certain thing, to not do a certain thing or in which they agree on a certain set of facts."
+    },
+    {
+      "Term_raw": "Creditor",
+      "Description_raw": "A person to whom money, goods or services are owed by the debtor."
+    },
+    {
+      "Term_raw": "Critical path (analysis)",
+      "Description_raw": "Most commonly used in works or major capital equipment projects. A sequence of defined activities whose timing determines the final completion date. See also Lead time. Critical path analysis is a management technique used to identify the interaction of these defined activities."
+    },
+    {
+      "Term_raw": "Damages",
+      "Description_raw": "Money paid as the normal remedy in the law as compensation for an individual or company's loss. if another type of remedy is wanted (such as an injunction - see general contract terms below) but cannot be or is not given by the court, then damages will be awarded instead."
+    },
+    {
+      "Term_raw": "De facto",
+      "Description_raw": "In fact. the opposite of de jure (in law). having a practical effect different from the legally accepted or expected situation. for example, a person who deliberately or negligently gives the impression to another party of being a company director, can be treated as a de facto director. so any agreement or statements will bind the company they make as if a properly appointed director made them."
+    },
+    {
+      "Term_raw": "De jure",
+      "Description_raw": "In law. according to law, the opposite of de facto."
+    },
+    {
+      "Term_raw": "De minimis",
+      "Description_raw": "Short for de minimis non curat lex: the law does not concern itself with trifles. it basically means insignificant or too small to bother with."
+    },
+    {
+      "Term_raw": "De novo",
+      "Description_raw": "Start afresh. starting a new contract on the same basis as the old."
+    },
+    {
+      "Term_raw": "Debenture",
+      "Description_raw": "A formal debt agreement. it refers to both the agreement and the document that verifies it. it is usually issued by companies and is generally supported by security over some property of the debtor. if the debtor defaults, the creditor can take and sell the property. debentures are often transferable, so the creditor can sell it and there are markets on formal stock exchanges that deal in types of debenture. it is sometimes referred to as debenture stock. a mortgage is a type of debenture but one that is always secured, usually against land."
+    },
+    {
+      "Term_raw": "Debriefing",
+      "Description_raw": "The term used to describe the process of explaining to unsuccessful tenderers why they have not been awarded the business and to help suppliers improve their competitive performance."
+    },
+    {
+      "Term_raw": "Debt",
+      "Description_raw": "An amount of money due and payable, from one person to another."
+    },
+    {
+      "Term_raw": "Debtor",
+      "Description_raw": "A person who owes money, goods or services to another, the latter being referred to as the creditor."
+    },
+    {
+      "Term_raw": "Deceit",
+      "Description_raw": "Willful or reckless misrepresentation or concealment of material facts with an intent to mislead."
+    },
+    {
+      "Term_raw": "Deceptive Trade Practice",
+      "Description_raw": "An intentional act or omission in the course of trade or commerce that has the tendency or capacity to mislead or create the likelihood of deception."
+    },
+    {
+      "Term_raw": "Deed",
+      "Description_raw": "A written document by which a person transfers ownership of real property to another. a deed must be properly executed and delivered in order to be effective."
+    },
+    {
+      "Term_raw": "Defeasance",
+      "Description_raw": "A side-contract which contains a condition which, if realized, could defeat the main contract."
+    },
+    {
+      "Term_raw": "Deliverables",
+      "Description_raw": "A collective name for all those tangible things that the supplier or contractor is required to supply under the agreement. It includes goods or finished works, together with drawings, specifications and other related documentation. It does not normally include intangibles such as warranties - these are commonly termed 'on-going obligations'."
+    },
+    {
+      "Term_raw": "Delusion",
+      "Description_raw": "A firm yet irrational belief and which may affect an individual's capacity to contract."
+    },
+    {
+      "Term_raw": "Demurrage",
+      "Description_raw": "In a voyage the obligation to see that the ship is loaded and unloaded falls to the charterer; the ship's owner's obligation being to get the ship to the port of loading or unloading. Demurrage is an agreed amount of damages to be paid by the charterer for exceeding the permitted amount of loading/unloading time. The quicker the total voyage time the more profitable is the transaction for the ship owner."
+    },
+    {
+      "Term_raw": "Disclaimer",
+      "Description_raw": "A renunciation or refusal of rights or liability which might otherwise fall upon the person."
+    },
+    {
+      "Term_raw": "Due diligence",
+      "Description_raw": "The formal process of investigating the background of a business, either prior to buying it, or as another party in a major contract. it is used to ensure that there are no hidden details that could affect the deal."
+    },
+    {
+      "Term_raw": "Duress",
+      "Description_raw": "Where a person is prevented from acting (or not acting) according to their free will, by threats or force of another."
+    },
+    {
+      "Term_raw": "E-Commerce",
+      "Description_raw": "The buying and sellling of goods and services on the internet."
+    },
+    {
+      "Term_raw": "Easement",
+      "Description_raw": "An interest in land owned by another that entitles its holder to a specific limited use or enjoyment eg the right to cross the land, or to continue to have an unobstructed view over it."
+    },
+    {
+      "Term_raw": "Economic order quantity (EOQ)",
+      "Description_raw": "The most cost-effective quantity to order when purchasing for stock. See also Stock turn."
+    },
+    {
+      "Term_raw": "Efficient Breach",
+      "Description_raw": "The intentional breach of a contract by the payment of the breaching party of damages because it has become more cost-effective than performance."
+    },
+    {
+      "Term_raw": "Ejusdem or Eiusdem Generis",
+      "Description_raw": "Of the same kind or nature."
+    },
+    {
+      "Term_raw": "Employment contract",
+      "Description_raw": "A contract between an employer and an employee. this differs from other contracts in that it is governed by employment legislation - which takes precedence over normal contract law."
+    },
+    {
+      "Term_raw": "Emptio or Emtio",
+      "Description_raw": "Latin for 'purchase' or referring to the contract in which something is bought."
+    },
+    {
+      "Term_raw": "Encroachment",
+      "Description_raw": "When a building or some portion of it, or a wall or fence, extends beyond the land of the owner and illegally intrudes upon that of an adjoining owner."
+    },
+    {
+      "Term_raw": "End user",
+      "Description_raw": "The actual user of the goods and services purchased by the buyer, responsible for stating the requirement and often the specification."
+    },
+    {
+      "Term_raw": "Enquiry",
+      "Description_raw": "Also known as invitation to tender - the buyer invites suppliers to bid for business usually setting out the specification and terms and conditions. Enquiry documents comprise all those documents - specification, terms and conditions etc - sent to suppliers to enable them to bid."
+    },
+    {
+      "Term_raw": "Equitable Fraud",
+      "Description_raw": "Conduct which, having regard to some special relationship between the two parties concerned, is an unconscionable thing for the one to do towards the other."
+    },
+    {
+      "Term_raw": "Equity",
+      "Description_raw": "The monetary value of a property after any claims, such as a mortgage, are taken away."
+    },
+    {
+      "Term_raw": "Equity Law",
+      "Description_raw": "A branch of English law which developed hundreds of years ago when litigants would go to the King and complain of harsh or inflexible rules of common law which prevented \"justice\" from prevailing."
+    },
+    {
+      "Term_raw": "Escrow",
+      "Description_raw": "When the performance of something is outstanding and a third party holds onto money or a written document (such as shares or a deed) until a certain condition is met between the two contracting parties."
+    },
+    {
+      "Term_raw": "Eviction",
+      "Description_raw": "The dispossession of a tenant of leased property by force or through the legal process."
+    },
+    {
+      "Term_raw": "Ex gratia",
+      "Description_raw": "Out of grace. a gift made without any obligation on the part of the giver or any return from the receiver."
+    },
+    {
+      "Term_raw": "Ex parte",
+      "Description_raw": "On behalf of. an action, usually a legal action, taken by a party on someone else's behalf."
+    },
+    {
+      "Term_raw": "Ex post facto",
+      "Description_raw": "Because of some later event. where a later event or occurrence interferes with an earlier agreement."
+    },
+    {
+      "Term_raw": "Exceptio Non Adimpleti Contractus",
+      "Description_raw": "Latin: exception of a non-performed contract."
+    },
+    {
+      "Term_raw": "Exchange",
+      "Description_raw": "The exchange of agreed, signed contracts. the transaction between the seller and the buyer is then legally binding, and completion (including the final transfer of money) usually takes place two to four weeks later."
+    },
+    {
+      "Term_raw": "Exclusion clauses",
+      "Description_raw": "Clauses in a contract that are intended to exclude one party from liability if a stated circumstance happens. they are types of exemption clauses. the courts tend to interpret them strictly and, where possible, in favour of the party that did not write them. in customer dealings, exclusion clauses are governed by regulations that render most of them ineffective but note that these regulations do not cover you in business dealings."
+    },
+    {
+      "Term_raw": "Exempli gratia (eg)",
+      "Description_raw": "For example. one or more examples from a greater list of possibilities. compares with id est (ie), that is, which indicates a full, definitive list of all possibilities."
+    },
+    {
+      "Term_raw": "Exemption clauses",
+      "Description_raw": "Clauses in a contract that try to restrict the liability of the party that writes them. these are split into exclusion clauses that try to exclude liability completely for specified outcomes, and limitation clauses that try to set a maximum on the amount of damages the party may have to pay if there is a failure of some part of the contract. exemption clauses are regulated very strictly in consumer dealings but these don't apply for those who deal in the course of their business."
+    },
+    {
+      "Term_raw": "Expediting",
+      "Description_raw": "An organised and sustained activity to monitor a supplier's progressive achievement with the aim of achieving deliveries on time."
+    },
+    {
+      "Term_raw": "Express terms",
+      "Description_raw": "The terms actually stated in the contract. these can be the written terms, or verbal ones agreed before or at the time the contract is made (see implied terms)."
+    },
+    {
+      "Term_raw": "Expressio Unius Est Exclusio Alterius",
+      "Description_raw": "Latin: the expression of one thing is the exclusion of the other."
+    },
+    {
+      "Term_raw": "F.O.B.",
+      "Description_raw": "Acronym for 'free on board'; a contract whereby the seller of goods agrees to absorb the costs of delivering the goods to the purchaser's transporter of choice."
+    },
+    {
+      "Term_raw": "Facilities management",
+      "Description_raw": "The management, operation and maintenance, including all support services, of a complete installation. The term is often used where the responsibility is transferred to an external party."
+    },
+    {
+      "Term_raw": "Factoring",
+      "Description_raw": "Means by which a supplier obtains early and reliable payment of goods by discounting its invoices to a finance house that collects direct from the buyer at full value."
+    },
+    {
+      "Term_raw": "Falsa Demonstratio Non Nacet",
+      "Description_raw": "A wrong description of an item in a legal document (such as a will) will not necessarily void the gift if it can be determined from other facts."
+    },
+    {
+      "Term_raw": "Feme Covert",
+      "Description_raw": "French: a married woman."
+    },
+    {
+      "Term_raw": "Feme Sole",
+      "Description_raw": "French: an unmarried woman."
+    },
+    {
+      "Term_raw": "First In, First Out Rule",
+      "Description_raw": "Each withdrawal in an account, made without particulars, is presumed to be a return of all or part of the oldest deposit."
+    },
+    {
+      "Term_raw": "Fixture",
+      "Description_raw": "A permanently fixed piece of furniture or equipment incorporated into a property. removing it would cause damage to buildings or land, and is therefore regarded as legally part of it."
+    },
+    {
+      "Term_raw": "Floating charge",
+      "Description_raw": "A form of security for a debt. instead of naming a specific property, which can be taken by the creditor if the debtor defaults (as in a fixed charge like a mortgage), a class of goods or assets is named, such as the debtor's stock. this allows the debtor to trade in the assets freely, but if the debtor fails to make repayments then the floating charge becomes a fixed charge (known as crystallisation) over all the stock at that time. the creditor can then take and sell it to recover the debt."
+    },
+    {
+      "Term_raw": "Force majeure",
+      "Description_raw": "The purpose of a force majeure clause is to define circumstances that release the parties from liability. The clause itself defines the hazards, dangers or 'Acts of God' that have this effect."
+    },
+    {
+      "Term_raw": "Forward Contract",
+      "Description_raw": "An agreement to buy or sell a specified thing at a fixed price at some future date."
+    },
+    {
+      "Term_raw": "Framework agreements",
+      "Description_raw": "Also known as standing agreements, standing arrangements, call-off agreements and call-off contracts. This is a form of 'enabling' agreement with a supplier, covering the terms and conditions (including price) for purchases under the agreement, usually arranged by some central point and under which the buyers 'call-off' to meet their requirements. Unless a specified quantity of supply over a given period has been committed, the arrangement only becomes a legally-binding contract when the call-off is made. There are two types of framework agreement - a single supplier where goods and services covered by the agreement are ordered as required, and - a multiple supplier framework – with at least three (3) suppliers -where a mini-competition involving all the suppliers is completed each time there is a requirement."
+    },
+    {
+      "Term_raw": "Franchising",
+      "Description_raw": "Commercial agreements that allow one business to deal in a product or service controlled by another. for example, most car manufacturers give franchises to sell their cars to local garages, who then operate using the manufacturer's brand."
+    },
+    {
+      "Term_raw": "Fraud",
+      "Description_raw": "Deceitful or deceptive conduct designed to manipulate another person to give something of value."
+    },
+    {
+      "Term_raw": "Free alongside (FAS)",
+      "Description_raw": "As it sounds the supplier's price includes all carriage costs from dispatch to the point where the goods are placed on the quay within reach of the ship being used for the onward transportation. Title passes once the goods reach that location."
+    },
+    {
+      "Term_raw": "Free issue material",
+      "Description_raw": "Components, sub-assemblies or materials issued free of charge to a contractor by the buyer for incorporation in the final goods to be supplied to the buyer."
+    },
+    {
+      "Term_raw": "Free on board (FOB)",
+      "Description_raw": "The supplier's price includes all carriage costs from dispatch to the point where they are loaded on board ship (or aircraft) for onward transportation. Title passes at the point when the goods pass the ship's rail."
+    },
+    {
+      "Term_raw": "Freedom of Contract",
+      "Description_raw": "That men and women have the liberty of contracting as they see fit with the expectation that those contracts will be judicially enforced if necessary, subject only to public policy."
+    },
+    {
+      "Term_raw": "Freehold",
+      "Description_raw": "Outright ownership of a property. this type of tenure contrasts with leasehold where the leaseholder has the rights to occupy a property for a specified period of time."
+    },
+    {
+      "Term_raw": "Freight forwarding agency",
+      "Description_raw": "An organisation appointed to carry out the transportation of goods from one point to another."
+    },
+    {
+      "Term_raw": "Frustration",
+      "Description_raw": "To render a contract null and void by showing that - performance has become factually or legally impossible, or - there has been some change of events so serious as to undermine the foundation of the contract such that to perform it, a different contract would have to be made. However, it is narrow in scope and limited in application."
+    },
+    {
+      "Term_raw": "Fundamental Breach",
+      "Description_raw": "Contract law:"
+    },
+    {
+      "Term_raw": "GATT",
+      "Description_raw": "General Agreement on Tariffs and Trade."
+    },
+    {
+      "Term_raw": "Gift",
+      "Description_raw": "A transfer of property with nothing given in return."
+    },
+    {
+      "Term_raw": "Going concern",
+      "Description_raw": "Accounting idea that a business should be valued on the basis that it will be continuing to trade and able to use its assets for their intended purpose. the alternative is a break-up basis, which sets values according to what the assets could be sold for immediately - often much less than their value if they were kept in use."
+    },
+    {
+      "Term_raw": "Grand-Father Clause",
+      "Description_raw": "A provisions in law or a contract which exempts persons already engaging in the activity which the law or contract prohibits, from adverse results from the subsequent law or contract."
+    },
+    {
+      "Term_raw": "Guarantee",
+      "Description_raw": "A secondary agreement by which one person promises to honour the debt of another if that debtor fails to pay. banks and other creditors often call on directors of small companies to give their personal guarantees for company debts. a guarantee must be in writing. the guarantor can only be sued if the actual debtor can't pay, in contrast to indemnity."
+    },
+    {
+      "Term_raw": "Guarantor",
+      "Description_raw": "A person who pledges payment or performance of a contract of another, but separately, as part of an independently contract with the obligee of the original contract."
+    },
+    {
+      "Term_raw": "Habitable",
+      "Description_raw": "Suitable and fit for a person to live in and free of any faults that might endanger the health and safety of occupants."
+    },
+    {
+      "Term_raw": "Hadley v Baxendale, Rule in",
+      "Description_raw": "A rule of contract law which limits the defendant of a breach of contract case to damages which can reasonably be anticipated to flow from the breach."
+    },
+    {
+      "Term_raw": "Holdover Tenancy",
+      "Description_raw": "A tenancy that arises when someone remains in possession of a property after the expiration of the previous tenancy and is recognised by the landlord by accepting rent."
+    },
+    {
+      "Term_raw": "Id est (ie)",
+      "Description_raw": "That is. is followed by a definition or list of items or options that relate to a preceding statement or condition. differs from exempli gratia (eg) - for example - that gives some, but not all, examples of the items or options."
+    },
+    {
+      "Term_raw": "Implied terms",
+      "Description_raw": "Are terms and clauses that are implied in a contract by law or custom and practice without actually being mentioned by any party. terms implied by custom and practice can always be overridden by express terms, but some terms implied by law cannot be overridden, particularly those relating to consumers (see exemption clauses)."
+    },
+    {
+      "Term_raw": "In Terrorem",
+      "Description_raw": "Latin: in terror, fright, threat or warning."
+    },
+    {
+      "Term_raw": "Incapacitated",
+      "Description_raw": "An individual who lacks the ability to meet essential requirements for physical health, safety, or self-care."
+    },
+    {
+      "Term_raw": "Incompetency",
+      "Description_raw": "An individual who has a significant risk of personal harm based upon an inability to adequately provide for nutrition, health, housing, or physical safety."
+    },
+    {
+      "Term_raw": "Incorporate",
+      "Description_raw": "Inclusion in, or adoption of, some term or condition as part of the contract. it differs from its company law definition where it refers to the legal act of creating a company."
+    },
+    {
+      "Term_raw": "Indemnity",
+      "Description_raw": "A promise by a third party to pay a debt owed, or repay a loss caused, by another party. unlike a guarantee, the person owed can get the money direct from the indemnifier without having to chase the debtor first. insurance contracts are contracts of indemnity: the insurance company pays first, and then tries to recover the loss from whoever caused it."
+    },
+    {
+      "Term_raw": "Indenture",
+      "Description_raw": "A deed or other document to which two or more parties are bound."
+    },
+    {
+      "Term_raw": "Inducing Breach of Contract",
+      "Description_raw": "An intentional, economic tort; knowingly and intentionally procuring the breach of a contract, without lawful justification, causing damage to another party to the contract."
+    },
+    {
+      "Term_raw": "Injunction",
+      "Description_raw": "A remedy sometimes awarded by the court that stops some action being taken. it can be used to stop another party doing something against the terms of the contract. injunctions are at the court's discretion and a judge may refuse to give one and award damages instead - see the finance contract terms below."
+    },
+    {
+      "Term_raw": "Innominate Terms",
+      "Description_raw": "An implied term of a contract which is neither classed as a condition or a warranty but somewhere in between; an intermediary or innominate term."
+    },
+    {
+      "Term_raw": "Insanity",
+      "Description_raw": "Disorder which impairs the human mind and prevents distinguishing between actions that are right or wrong."
+    },
+    {
+      "Term_raw": "Insolvency",
+      "Description_raw": "The situation where a person or business cannot pay its debts as they fall due (see bankruptcy, liquidation and receivership)."
+    },
+    {
+      "Term_raw": "Intellectual property rights (IPR)",
+      "Description_raw": "The legal rights relating to the ownership of inventions, designs, processes, techniques, drawings, specification, technical information and 'know-how', copyright, patents and trademarks are forms of IPR."
+    },
+    {
+      "Term_raw": "Inter alia",
+      "Description_raw": "Among other things. this is often used in contracts to indicate that what is being specifically referred to is part of a larger group without having to name all the elements."
+    },
+    {
+      "Term_raw": "Inter Partes",
+      "Description_raw": "Latin: between, among parties."
+    },
+    {
+      "Term_raw": "Inter Se",
+      "Description_raw": "Latin: as between or amongst themselves."
+    },
+    {
+      "Term_raw": "Interlineation",
+      "Description_raw": "An addition of something to a document after it has been signed."
+    },
+    {
+      "Term_raw": "Intuitu Personae",
+      "Description_raw": "Latin: Because of the person."
+    },
+    {
+      "Term_raw": "Inure",
+      "Description_raw": "To take effect, to result; to come into operation."
+    },
+    {
+      "Term_raw": "Invitation to tender",
+      "Description_raw": "All commercial forms and documents including specifications, drawings, terms and conditions of purchase, tendering instructions, forms of tender and pricing schedules which comprise the buyers technical and commercial requirements, against which competing tenders/bids are assessed."
+    },
+    {
+      "Term_raw": "Invitation to Treat",
+      "Description_raw": "A means of seeking information and inviting prospective offerors to make a contractual offer. A request for quotation or tender issued by a buyer is an invitation to treat. Price lists, catalogues etc are invitations to treat."
+    },
+    {
+      "Term_raw": "Invitee",
+      "Description_raw": "A person, such as a customer, who is present in a place either by the express or the implied invitation of the occupier. this normally means that the occupier has to exercise reasonable care to protect the safety of the invited person."
+    },
+    {
+      "Term_raw": "ISO",
+      "Description_raw": "International Standards Organisation. The international standards-making body whose standards are numbered with the prefix 'ISO'."
+    },
+    {
+      "Term_raw": "Joint and several liability",
+      "Description_raw": "Where parties act together in a contract as partners they have joint and several liability. in addition to all the partners being responsible together, each partner is also liable individually for the entire contract - so a creditor could recover a whole debt from any one of them individually, leaving that person to recover their shares from the rest of the partners."
+    },
+    {
+      "Term_raw": "Joint venture",
+      "Description_raw": "An agreement between two or more independent businesses in a business enterprise, in which they will share the costs, management, profits or benefits arising from the venture. the exact shares and responsibilities will be set out in a joint venture agreement."
+    },
+    {
+      "Term_raw": "Jurisdiction",
+      "Description_raw": "A jurisdiction clause sets out the country or state whose laws will govern the contract and where any legal action must take place. don't forget that england and scotland have different legal codes, and this may need to be specified."
+    },
+    {
+      "Term_raw": "Just-in-time (JIT)",
+      "Description_raw": "An approach to avoid holding stocks, primarily developed in manufacturing, involving the delivery of materials, parts, components etc, only at the time they are required for processing, assembly etc. It requires certainty as to suppliers' performance."
+    },
+    {
+      "Term_raw": "Laches",
+      "Description_raw": "An allegation that a legal right is stale under the circumstances and no longer able to support enforcement."
+    },
+    {
+      "Term_raw": "Laissez-faire",
+      "Description_raw": "French: leave alone. A theory of contract law that persons ought to have freedom of contract with minimal state or judicial interference."
+    },
+    {
+      "Term_raw": "Landlord",
+      "Description_raw": "The owner of property that is leased or rented to others."
+    },
+    {
+      "Term_raw": "Lead time",
+      "Description_raw": "The period of time that is considered to be required between defined events - for example, between the placing of an order and the delivery of the goods. It is usually expressed as the number of working days or weeks. See also Critical Path."
+    },
+    {
+      "Term_raw": "Lease",
+      "Description_raw": "A contract by which an owner of property conveys exclusive possession and use of it for a specified rent and for a specified period - after which the property reverts to the owner."
+    },
+    {
+      "Term_raw": "Legal duty",
+      "Description_raw": "The responsibility to others to act according to the law."
+    },
+    {
+      "Term_raw": "Legalese",
+      "Description_raw": "Legal terms combined in long-winded sentences, or varied or with permutations, with the initial design of legal or drafting precision but which otherwise add unnecessary complexity or inadvertently resulting in confusion."
+    },
+    {
+      "Term_raw": "Letter of credit",
+      "Description_raw": "This is a mechanism of compromise between the buyer (who is interested in paying as late as possible and confirmation of the quality of goods) and the supplier (who is interested in early, guaranteed payment). It involves the buyer obtaining an undertaking (usually irrevocable) from its bank to pay the supplier when certain conditions are fulfilled. This credit is then notified to the supplier's nominated bank which may enable the supplier to finance the purchase of raw materials or the manufacture of the goods."
+    },
+    {
+      "Term_raw": "Letter of intent",
+      "Description_raw": "A method by which the buyer advises a potential supplier of a future intention to place an order. Such letters (which may also be by fax or email) usually have an expiry date and often specify the conditions to be fulfilled before an order will be placed. They should be used with care, to avoid commitments being entered into prematurely or unintentionally."
+    },
+    {
+      "Term_raw": "Lex Causae",
+      "Description_raw": "Latin; law of the cause."
+    },
+    {
+      "Term_raw": "Lex Loci Contractus",
+      "Description_raw": "Latin: the law of the place where the contract is made."
+    },
+    {
+      "Term_raw": "Liability",
+      "Description_raw": "A legal obligation, either due now or at some time in the future."
+    },
+    {
+      "Term_raw": "Limited liability",
+      "Description_raw": "Usually refers to limited companies where the owners' liability to pay the debts of the company is limited to the value of their shares. it can also apply to contracts where a valid limitation clause has been included in the terms."
+    },
+    {
+      "Term_raw": "Liquidated damages",
+      "Description_raw": "A liquidated damages clause is a clause whereby the buyer makes a real attempt to estimate the loss likely to be incurred by a breach of contract. In which case the buyer may recover the amounts mentioned, no more, no less ie the liquidated damages clause must represent a genuine estimate of the damages."
+    },
+    {
+      "Term_raw": "Liquidation",
+      "Description_raw": "The formal breaking up of a company or partnership by realising (selling or transferring to pay a debt) the assets of the business. this usually happens when the business is insolvent, but a solvent business can be liquidated if it no longer wishes to continue trading for whatever reason (see receivership)."
+    },
+    {
+      "Term_raw": "Loss of use",
+      "Description_raw": "Circumstances where a property cannot be occupied in the normal way, through the negligence or wrongdoing of another party."
+    },
+    {
+      "Term_raw": "Lunatic",
+      "Description_raw": "An individual who, though once of sound mind, can no longer manage his person or his affairs."
+    },
+    {
+      "Term_raw": "Mailbox Rule",
+      "Description_raw": "A contract law exception that makes a mailed acceptance of an offer valid as of posting."
+    },
+    {
+      "Term_raw": "Mala fides",
+      "Description_raw": "Bad faith, opposite of bona fide."
+    },
+    {
+      "Term_raw": "Market testing: Contracting out",
+      "Description_raw": "In government, used to describe testing the efficiency of in-house services against tenders from outside firms. It also has, of course, a more general meaning - testing the market for goods and services to tap the widest possible supplier base."
+    },
+    {
+      "Term_raw": "Materials coding and classification",
+      "Description_raw": "Any system of uniquely identifying items in order to provide management information on purchasing and stockholding activity."
+    },
+    {
+      "Term_raw": "Materials management",
+      "Description_raw": "A term used to describe the purchasing and supply activity, primarily developed in a manufacturing context and with an emphasis on materials handling, stock control and distribution."
+    },
+    {
+      "Term_raw": "Meeting of the Minds",
+      "Description_raw": "The fact of contracting parties arresting their thoughts on a common set of fundamental terms."
+    },
+    {
+      "Term_raw": "Memorandum of Understanding (MOU)",
+      "Description_raw": "A document which generally is not intended to be legally binding but, if meeting the other criteria, can be, in law, a contract."
+    },
+    {
+      "Term_raw": "Merger",
+      "Description_raw": "The absorption of one thing or legal right into another."
+    },
+    {
+      "Term_raw": "Misrepresentation",
+      "Description_raw": "Where one party to a contract makes a false statement of fact to the other which that other person relies on. where there has been a misrepresentation then the party who received the false statement can get damages for their loss. the remedy of rescission (putting things back to how they were before the contract began) is sometimes available, but where it is not possible or too difficult the court can award damages instead."
+    },
+    {
+      "Term_raw": "Mistake",
+      "Description_raw": "A fundamental error going to the root of a purported contract."
+    },
+    {
+      "Term_raw": "Mitigation of Damages",
+      "Description_raw": "The obligation upon a person who sues another for damages, to minimize - mitigate - those damages, as far as reasonable."
+    },
+    {
+      "Term_raw": "MOU",
+      "Description_raw": "Abbreviation of Memorandum of Understanding. A document intended to become a contract but which, if meeting other criteria, can be recognized, in law, as a contract."
+    },
+    {
+      "Term_raw": "Mutilation",
+      "Description_raw": "To render a thing imperfect by cutting off or destroying a part."
+    },
+    {
+      "Term_raw": "Necessaries of Life",
+      "Description_raw": "A product or service sold or provided to an individual not legally competent, which are useful to his or her comfort or convenience taking into account the age and condition of the individual."
+    },
+    {
+      "Term_raw": "Nemo dat quod non habet",
+      "Description_raw": "No one can give what they do not have. the principle that a seller cannot pass on a better right to the property than they actually have. so, if goods are stolen, the buyer does not get ownership even if there was no indication that they were stolen."
+    },
+    {
+      "Term_raw": "Non",
+      "Description_raw": "Executive director - a director who does not work directly for a company but advises the other directors. non-executive directors have the full powers and authority of any other director and can bind the company to any contract."
+    },
+    {
+      "Term_raw": "Non compos mentis",
+      "Description_raw": "Not of sound mind. a person who is not of sound mind will not have full capacity to enter into a contract."
+    },
+    {
+      "Term_raw": "Non est factum",
+      "Description_raw": "Not my act. this is a denial by a person that they were actually involved in some action or dealings. in a contract, it can occur if a party denies that they signed the contract - that someone else forged their signature."
+    },
+    {
+      "Term_raw": "Noscitur a sociis",
+      "Description_raw": "Latin: that the meaning of a word may be known from accompanying words."
+    },
+    {
+      "Term_raw": "Notice to quit",
+      "Description_raw": "A notification or communication to a tenant to leave specified premises usually for a breach of terms of the lease."
+    },
+    {
+      "Term_raw": "Novation",
+      "Description_raw": "Substitute a new debt for an old debt, canceling the old debt."
+    },
+    {
+      "Term_raw": "Nudum Pactum",
+      "Description_raw": "Latin: an empty pact; a contract for which there is no consideration."
+    },
+    {
+      "Term_raw": "Obligations",
+      "Description_raw": "A legal requirement established by law, contract or as a result of unlawful harm caused to the person or property of another."
+    },
+    {
+      "Term_raw": "Obligee",
+      "Description_raw": "The person who is to receive the benefit of someone else's obligation."
+    },
+    {
+      "Term_raw": "Obligor",
+      "Description_raw": "A person who is contractually or legally, committed or obliged, to providing something to another person (the obligee)."
+    },
+    {
+      "Term_raw": "Occupancy",
+      "Description_raw": "Holding, possessing, or occupying premises."
+    },
+    {
+      "Term_raw": "Occupant",
+      "Description_raw": "Someone who occupies a particular place."
+    },
+    {
+      "Term_raw": "Offer",
+      "Description_raw": "An offer to contract must be made with the intention to create, if accepted, a legal relationship. it must be capable of being accepted (not containing any impossible conditions), must also be complete (not requiring more information to define the offer) and not merely advertising."
+    },
+    {
+      "Term_raw": "Open-Ended Agreement",
+      "Description_raw": "A contract silent as to an essential term left either to the discretion of one of the contracting parties, or in making the duration of the contract indefinite."
+    },
+    {
+      "Term_raw": "Pacta Sunt Servanda",
+      "Description_raw": "Latin: agreements must be kept."
+    },
+    {
+      "Term_raw": "Parent company",
+      "Description_raw": "Where one company owns more than 50 per cent of the voting rights of another company it is the parent of that company which in turn becomes its subsidiary. it can also occur where the parent has less than 50 per cent but can control the board of directors of the subsidiary: that is, it has the power to appoint and remove directors without referring to other shareholders."
+    },
+    {
+      "Term_raw": "Pari Delicto",
+      "Description_raw": "Latin: of equal fault."
+    },
+    {
+      "Term_raw": "Pari passu",
+      "Description_raw": "Equal and even. this relates to shares to denote that newly issued shares have the same rights and restrictions as those of the same class already existing."
+    },
+    {
+      "Term_raw": "Parol Evidence Rule",
+      "Description_raw": "Verbal evidence is inadmissible to vary or contradict the terms of a written agreement."
+    },
+    {
+      "Term_raw": "Partition",
+      "Description_raw": "The division into parts of property held jointly, or the sale of such property by a court with division of the proceeds."
+    },
+    {
+      "Term_raw": "Partnership",
+      "Description_raw": "When two or more people or organizations join together to carry on a business."
+    },
+    {
+      "Term_raw": "Party wall",
+      "Description_raw": "A wall that divides two separate premises, which is the joint responsibility of both owners."
+    },
+    {
+      "Term_raw": "Patent",
+      "Description_raw": "The grant of a limited monopoly in respect of a new registered invention capable of industrial application. It prevents anyone else making, using, disposing, importing or keeping any physical item which infringes it."
+    },
+    {
+      "Term_raw": "Performance Bond",
+      "Description_raw": "A contract wherein a third-party, in exchange for a fee, secures another's fulfillment of a contract or performance of a duty."
+    },
+    {
+      "Term_raw": "Personal Services Contract",
+      "Description_raw": "A contract in which the skills or talents of a party are material."
+    },
+    {
+      "Term_raw": "Pollicitation",
+      "Description_raw": "Civil law: an offer which has not been accepted."
+    },
+    {
+      "Term_raw": "Post tender negotiation (PTN)",
+      "Description_raw": "Discussions with a supplier or suppliers after their offers have been received, with the aim of achieving better value for money."
+    },
+    {
+      "Term_raw": "Postal Rule",
+      "Description_raw": "A rule of contract law that makes an exception to the general rule that an acceptance is only created when communicated directly to the offeror."
+    },
+    {
+      "Term_raw": "Potestative Condition",
+      "Description_raw": "A condition made in a contract the fulfillment of which is entirely in the control of one of the parties to the contract."
+    },
+    {
+      "Term_raw": "Pre-qualification",
+      "Description_raw": "A process by which prospective suppliers are selected for a tender list. It involves their assessment judged against pre-set and objective technical, financial and commercial criteria."
+    },
+    {
+      "Term_raw": "Premises",
+      "Description_raw": "A building or part of a building usually including the adjacent grounds."
+    },
+    {
+      "Term_raw": "Prima facie",
+      "Description_raw": "At first sight. a prima facie fact is one that seems to be correct, but may subsequently be proved wrong by other evidence."
+    },
+    {
+      "Term_raw": "Principal/agent/factor",
+      "Description_raw": "Principals are the main parties to a contract. Agents or factors are people appointed by principals to make contracts on their behalf"
+    },
+    {
+      "Term_raw": "Private Law",
+      "Description_raw": "Law which regulates the relationships between individuals."
+    },
+    {
+      "Term_raw": "Privity of Contract",
+      "Description_raw": "A doctrine of contract law that prevents any person from seeking the enforcement of a contract, or suing on its terms, unless they are a party to that contract."
+    },
+    {
+      "Term_raw": "Pro rata",
+      "Description_raw": "For the rate. divided in proportion to some existing split. for example, a pro rata share issue is offered in proportion to the number of shares each shareholder already has."
+    },
+    {
+      "Term_raw": "Pro tanto",
+      "Description_raw": "For so much. means to the extent specified, but not more."
+    },
+    {
+      "Term_raw": "Pro tempore (pro tem)",
+      "Description_raw": "For the time being."
+    },
+    {
+      "Term_raw": "Pro-forma invoice",
+      "Description_raw": "An invoice prepared before either commencement or completion of a contract to enable the buyer to obtain customs clearance for goods. It also applies to any pre-payment for goods, not just, imported goods."
+    },
+    {
+      "Term_raw": "Professional Indemnity insurance",
+      "Description_raw": "Here the aim is to insure claims made by others whose persons, property or business have been affected by a wrong done by the professional staff of the insured company (relevant for architects, solicitors, accountants etc)."
+    },
+    {
+      "Term_raw": "Progress payments",
+      "Description_raw": "Normally employed for high value capital-intensive contracts where the supplier requires pre-funding in order to maintain a positive cash flow during production. The contract sum is phased over the manufacturing period and preferably, payments are only released to the contractor on evidence of completion of a work stage."
+    },
+    {
+      "Term_raw": "Promisee",
+      "Description_raw": "A person whom is to be the beneficiary of a promise, an obligation or a contract."
+    },
+    {
+      "Term_raw": "Promisor",
+      "Description_raw": "The person who has become obliged through a promise (usually expressed in a contract) towards another."
+    },
+    {
+      "Term_raw": "Promissory Estoppel",
+      "Description_raw": "A promise made to another party to a contract that the contract will not be enforced in whole or in part and which, once acted upon, prevents subsequent proceedings to enforce the contract as against the person who relied on the promise."
+    },
+    {
+      "Term_raw": "Property",
+      "Description_raw": "A comprehensive collection of legal rights over a thing."
+    },
+    {
+      "Term_raw": "Prospectus",
+      "Description_raw": "A document in which a corporation sets out the material details of a share or bond issue and inviting the public to invest by purchasing these financial instruments."
+    },
+    {
+      "Term_raw": "Protocol",
+      "Description_raw": "International agreements of a less formal nature than a treaty and which amends, supplements or clarifies a treaty."
+    },
+    {
+      "Term_raw": "Proxy",
+      "Description_raw": "A person who acts on behalf of another for a specific purpose, or the form used to make such an appointment. in a company a shareholder can appoint a proxy to attend a meeting and vote on their behalf."
+    },
+    {
+      "Term_raw": "Public liability insurance",
+      "Description_raw": "Is taken out by a business to cover against harm done to customers on the premises or by the product they are supplying."
+    },
+    {
+      "Term_raw": "Public Policy",
+      "Description_raw": "Certain acts or contracts are said to be against public policy if they tend to promote breach of the law, of the policy behind a law or tend to harm the state or its citizens."
+    },
+    {
+      "Term_raw": "Purchase order form",
+      "Description_raw": "A pre-printed form used to enter into an agreement with a supplier and usually including the buyer's terms and conditions"
+    },
+    {
+      "Term_raw": "Purchase requisition form",
+      "Description_raw": "A pre-printed form usually completed by the end-user and budget holder, requesting the buyer to make a purchase and providing authority to commit expenditure."
+    },
+    {
+      "Term_raw": "Quality assurance",
+      "Description_raw": "All the equipment and procedures which a supplier employs to check, monitor and document factory processes or service activities to ensure and demonstrate that goods and services supplied conform to the buyer's requirements and published quality standards."
+    },
+    {
+      "Term_raw": "Quality systems",
+      "Description_raw": "That part of the management systems, of both supplier and buyer, which is directed towards ensuring that goods or services will be fit for purpose. ISO9000 is the commonly derived standard for quality systems."
+    },
+    {
+      "Term_raw": "Quantum Meruit",
+      "Description_raw": "Latin: as much as is deserved."
+    },
+    {
+      "Term_raw": "Quasi-Contract",
+      "Description_raw": "Civil law: a contract implied and imposed by law resulting from certain actions of a person."
+    },
+    {
+      "Term_raw": "Qui Prior Est Tempore, Potior Est Jure",
+      "Description_raw": "Latin: he who is earlier in time is stronger in law."
+    },
+    {
+      "Term_raw": "Quid pro quo",
+      "Description_raw": "Something for something. the usual definition of consideration (see the general contracts terms above) in a contract, on the basis that each party should offer something to the other."
+    },
+    {
+      "Term_raw": "Quit",
+      "Description_raw": "For a tenant to move out of rented premises."
+    },
+    {
+      "Term_raw": "Quorum",
+      "Description_raw": "The minimum number of people needed at a meeting for it to proceed and make any decisions."
+    },
+    {
+      "Term_raw": "Quote/quotation",
+      "Description_raw": "Another term for the offer from a supplier in response to the buyer's enquiry or invitation to tender."
+    },
+    {
+      "Term_raw": "Ratification",
+      "Description_raw": "Giving authority to an act that has already been done. a company general meeting resolution can ratify an act previously done by the directors; or a principal can choose to ratify the act of an agent that was beyond the specified power of the agent."
+    },
+    {
+      "Term_raw": "Reasonable wear and tear",
+      "Description_raw": "Damage sustained in the course of normal use."
+    },
+    {
+      "Term_raw": "Receivership",
+      "Description_raw": "The appointment of a licensed insolvency practitioner to take over the running of a company. a creditor with a secured debt appoints the receiver. the job of the receiver is to recover the debt either by taking the security and selling it or by running the business as a going concern until the debt is paid off (see liquidation)."
+    },
+    {
+      "Term_raw": "Recoupment",
+      "Description_raw": "A rebate of a debt or claim because of a right of the debtor arising out of the same transaction."
+    },
+    {
+      "Term_raw": "Redemption of shares",
+      "Description_raw": "Where a company issues shares on terms stating that they can be bought back by the company. not all shares can be redeemed, only those stated to be redeemable when they were issued. the payment for the shares must generally come from reserves of profit so that the capital of the company is preserved."
+    },
+    {
+      "Term_raw": "Registered design",
+      "Description_raw": "Protects the appearance of mass produced products as long as it (ie the design) has a novel and aesthetic element and is not purely functional."
+    },
+    {
+      "Term_raw": "Registered Office",
+      "Description_raw": "The official address of the company as stated on the register at companies house. any documents delivered to this address are considered to be legally served on the company."
+    },
+    {
+      "Term_raw": "Rejection of goods/services",
+      "Description_raw": "If goods are rejected, the a buyer possible solutions are - To seek replacement goods or services that meet the product specification, and - Damages, where the failure to supply acceptable goods or services has caused problems that cannot be solved by providing replacements. Once goods have been accepted according to the Sale of Goods Act 1979, the buyer's only recourses are to - Sue for damages for breach of contract, or - Claim for contravention of statutory obligations, or - Claim against any guarantee that is available. The remedy of rejection is not available forever, however, acceptance cannot occur until the buyer has had a reasonable opportunity of examining the goods to check conformance."
+    },
+    {
+      "Term_raw": "Remedy",
+      "Description_raw": "Remedial judicial action to right a wrong or to prevent a infringement upon a legal right."
+    },
+    {
+      "Term_raw": "Remedy/Remedies",
+      "Description_raw": "Payments or actions ordered by the court as settlement of a dispute. the most common is damages (a payment of money). others include specific performance (of an action required in the contract), injunction (see the general contract terms above) and rescission - putting things back to how they were before the contract was signed."
+    },
+    {
+      "Term_raw": "Repossess",
+      "Description_raw": "To take possession again of a property or goods after non-payment of money owed. this might follow a court order."
+    },
+    {
+      "Term_raw": "Repudiation",
+      "Description_raw": "Has two meanings in contract law. the first is where a party refuses to comply with a contract and this amounts to a breach of contract. the second is where a contract was made by a minor (person under the age of 18) who then repudiates it at or shortly after the age of 18. then the repudiation voids the contract rather than causing a breachof contract."
+    },
+    {
+      "Term_raw": "Rescind",
+      "Description_raw": "To abrogate or cancel a contract putting the parties in the same position they would have been in had there been no contract."
+    },
+    {
+      "Term_raw": "Restitutio In Integrum",
+      "Description_raw": "Latin: restitution to the original position."
+    },
+    {
+      "Term_raw": "Restrictive covenant",
+      "Description_raw": "Is often included in long-term contracts and contracts of employment to stop the parties working with competitors during the period of the agreement and for some time thereafter. however, unless carefully written the courts will see them as being a restraint of trade and not enforce them."
+    },
+    {
+      "Term_raw": "Retentions",
+      "Description_raw": "A portion of the contract price, withheld by agreement between the parties for an agreed period of time after acceptance of goods until it can be demonstrated that they fully conform to specification when in daily use."
+    },
+    {
+      "Term_raw": "Right of First Refusal",
+      "Description_raw": "A right given to a person to be the first person allowed to purchase a certain object if it is ever offered for sale."
+    },
+    {
+      "Term_raw": "Rights of lien",
+      "Description_raw": "The right of a creditor in possession of the goods of his debtor to retain possession of them until the price has been paid or debt completely satisfied."
+    },
+    {
+      "Term_raw": "Romalpa clauses",
+      "Description_raw": "Otherwise referred to as retention of title clauses - they ensure title and ownership of goods pass only on full payment of bills. The practical effect of such clauses is to place the supplier in a better position than the rest of the buyer's creditors in the event of the buyer's insolvency."
+    },
+    {
+      "Term_raw": "Sale",
+      "Description_raw": "The exchange of goods or services for consideration."
+    },
+    {
+      "Term_raw": "Satisfaction Guaranteed",
+      "Description_raw": "A term in a sales or services contract in which the seller defers to the buyer the sole and unilateral discretion as to whether or not the goods or services tendered are acceptable. In the event the price is not paid, no cause of action exists unless the buyer acting in good faith is satisfied, no matter how good the goods or services are in terms of quality."
+    },
+    {
+      "Term_raw": "Scott v Avery Clause",
+      "Description_raw": "A contract between two parties that they will submit any dispute between them to arbitration before taking any court action."
+    },
+    {
+      "Term_raw": "Seal",
+      "Description_raw": "A waxed impression proving authenticity of a document."
+    },
+    {
+      "Term_raw": "Search",
+      "Description_raw": "An inspection carried out to establish whether any legal restraints, planning applications or aspects of legal ownership might affect the purchase of a property. solicitors will look into land registry and local government records when pursuing this."
+    },
+    {
+      "Term_raw": "Sequestration",
+      "Description_raw": "The taking of someones property, voluntarily (by deposit) or involuntarily (by seizure), by court officers or into the possession of a third party, awaiting the outcome of a trial in which ownership of that property is at issue."
+    },
+    {
+      "Term_raw": "Service contract",
+      "Description_raw": "Directors and officers of a company are usually given service contracts that are different to a contract of service or employment contract. this is because directors and officers are not always employees and the effect of employment law is different."
+    },
+    {
+      "Term_raw": "Settlement",
+      "Description_raw": "An agreement, or the document which articulates the agreement, which sets or resolves rights."
+    },
+    {
+      "Term_raw": "Settlement discount",
+      "Description_raw": "A discount on purchase price offered by a supplier to a buyer for prompt clearance of invoices."
+    },
+    {
+      "Term_raw": "Shareholders' agreement",
+      "Description_raw": "An agreement between all of the shareholders about how the company should be run and the application of the rights of the shareholders. this acts as a contract between the shareholders. the company itself is not bound by it, as it is not a party to the agreement."
+    },
+    {
+      "Term_raw": "Sherman Antitrust Act",
+      "Description_raw": "American federal statutes that defines and prohibits contracts or conspiracies which are designed to restrain trade."
+    },
+    {
+      "Term_raw": "Specific Performance",
+      "Description_raw": "A remedy in the event of breach of contract, whereby the Court orders a party found in breach of his/her contractual obligations to perform their specific duty as set out in the contract."
+    },
+    {
+      "Term_raw": "Specification",
+      "Description_raw": "The formal description in objective and measurable terms of the characteristics of the goods or services required. A 'performance' specification is one that focuses on the function of the product or service required: it builds the specification around a description of what is to be done rather than a fixed description of how it should be done. The latter is the approach used in a 'design' specification"
+    },
+    {
+      "Term_raw": "Stamp duty",
+      "Description_raw": "A tax on transactions. only applied to specific types of transactions eg dealings in land and buildings, shares and ships."
+    },
+    {
+      "Term_raw": "Standardisation",
+      "Description_raw": "The elimination of unessential differences between the end-users' requirements and available products, with the aim of moving towards the purchase of more readily-available goods and services. This can then enable a greater aggregation of demand, reduction of stockholdings etc. See also Variety reduction"
+    },
+    {
+      "Term_raw": "Starr",
+      "Description_raw": "Medieval English law term for legal transactions involving a Jewish person."
+    },
+    {
+      "Term_raw": "Statute of Frauds",
+      "Description_raw": "A statute that set a minimum standard for enforceable contracts, usually requiring at a minimum something in writing or the actual exchange of reciprocal obligations, at least in part."
+    },
+    {
+      "Term_raw": "Statutes",
+      "Description_raw": "The written laws approved by legislatures, parliaments or elected or appointed houses of assembly."
+    },
+    {
+      "Term_raw": "Stock out",
+      "Description_raw": "The situation where all stocks of an item have been exhausted."
+    },
+    {
+      "Term_raw": "Stock turn",
+      "Description_raw": "The number of times the total stockholding of an item is used in a year, calculated by dividing the total annual usage by the average stockholding."
+    },
+    {
+      "Term_raw": "Subject to contract",
+      "Description_raw": "Words used on documents exchanged by parties during contract negotiations. they denote that the document is not an offer or acceptance and negotiations are ongoing. often the expression without prejudice is used when subject to contract is meant."
+    },
+    {
+      "Term_raw": "Sublease",
+      "Description_raw": "A lease that is given by a tenant of part or all of the leased premises, to another person for a period shorter than the original lease, while still retaining some interest."
+    },
+    {
+      "Term_raw": "Subrogation",
+      "Description_raw": "The substitution of one person to the rights of another."
+    },
+    {
+      "Term_raw": "Substantial Performance",
+      "Description_raw": "The fulfillment of essential obligations, but not necessarily strictly all obligations, as required under a contract."
+    },
+    {
+      "Term_raw": "Supplier appraisal",
+      "Description_raw": "Also known as supplier assessment or evaluation, or vendor appraisal/ assessment/evaluation. It is the process of establishing whether a supplier is capable in all key respects of providing the goods or services required. If firms are appraised for inclusion on approved lists (also known as trade lists or eligible lists) the process is called pre-qualification."
+    },
+    {
+      "Term_raw": "Supplier/vendor",
+      "Description_raw": "A commercial organisation, public or private body, or individual offering to provide a service or supply goods with the legal capacity to contract to supply such goods or services."
+    },
+    {
+      "Term_raw": "Surety",
+      "Description_raw": "A person who promises to answer for the debt or performance of another."
+    },
+    {
+      "Term_raw": "Synallagmatic Contract",
+      "Description_raw": "A civil law term for a reciprocal or bilateral contract: one in which both parties provide consideration."
+    },
+    {
+      "Term_raw": "Tenancy",
+      "Description_raw": "The temporary possession or occupancy of property that belongs to another. it also refers to the period of a tenant's possession."
+    },
+    {
+      "Term_raw": "Tender/bid",
+      "Description_raw": "The formal offer to supply goods or services issued by a vendor, seller, supplier, manufacturer, agent, stockist or other organisation or person with legal capacity to do so. It is usually received in response to the buyer's invitation."
+    },
+    {
+      "Term_raw": "Tenure",
+      "Description_raw": "The way in which a property is held eg freehold tenure or leasehold tenure."
+    },
+    {
+      "Term_raw": "Third Party",
+      "Description_raw": "A person who is not privy to a contract or a party in a lawsuit."
+    },
+    {
+      "Term_raw": "Third-party performance bonds",
+      "Description_raw": "There is little point in attempting to recover damages from any supplier for poor performance if it lacks the ability to pay. Buyers should consider a 'guarantee of performance bond' whereby a third party undertakes, for a premium usually paid by the supplier, to carry the risk that the supplier may fail to fulfil its contract obligations (it can cover varying percentages of the contract value, even more than 100%)."
+    },
+    {
+      "Term_raw": "Time of the Essence",
+      "Description_raw": "A contractual term requiring performance within a specified time."
+    },
+    {
+      "Term_raw": "Time-Bar Clause",
+      "Description_raw": "A clause in a contract which sets a strict deadline within which either party may bring a dispute to either a court or to arbitration."
+    },
+    {
+      "Term_raw": "Tort",
+      "Description_raw": "The body of the law which allows an injured person to obtain compensation from the person who caused the injury."
+    },
+    {
+      "Term_raw": "Trade list",
+      "Description_raw": "See Approved list. The term may also be used to describe an index of suppliers prepared by a trade association or other body, sometimes on a subscription basis."
+    },
+    {
+      "Term_raw": "Trademark",
+      "Description_raw": "A registered name or logo that is protected by law. trademarks must be granted through the patent office."
+    },
+    {
+      "Term_raw": "Treaty",
+      "Description_raw": "A formal agreement between two states signed by official representatives of each state."
+    },
+    {
+      "Term_raw": "Trespass",
+      "Description_raw": "A wilful act or active negligence that causes an injury to a person or the invasion of their property."
+    },
+    {
+      "Term_raw": "Trover",
+      "Description_raw": "An old English and common law legal proceeding against a person who had found someone else’s property and has converted that property to their own purposes."
+    },
+    {
+      "Term_raw": "Turnkey contracts",
+      "Description_raw": "Most commonly used in the context of capital contracts, to describe an arrangement whereby the contractor provides everything required for full operation of the facility."
+    },
+    {
+      "Term_raw": "Uberrima fides",
+      "Description_raw": "Utmost good faith. the concept that a party to certain types of contract must act in good faith and declare all relevant facts to the other side even if they do not ask. this only usually applies to insurance contracts where the insured person must declare all known risks. it is an exemption to the general contract rule of caveat emptor."
+    },
+    {
+      "Term_raw": "Unconscionable",
+      "Description_raw": "A bargain or contract which is clearly unfair, exorbitant, harsh, contrary to common sense or good conscience."
+    },
+    {
+      "Term_raw": "Under Protest",
+      "Description_raw": "A qualification made to a legal action taken by a person that the action is contrary to the intent or desire of the person making the protest."
+    },
+    {
+      "Term_raw": "Underwriter",
+      "Description_raw": "A person who signs as party to a contract. now usually only applied to insurance contracts where the underwriters are those who agree to bear all or part of the risk in return for the premium payments. underwriters at lloyd's of london are also known as names."
+    },
+    {
+      "Term_raw": "Undue Influence",
+      "Description_raw": "The unconscientious use by one person of his/her power over another in order to induce the other to compromise a property right."
+    },
+    {
+      "Term_raw": "Unfair terms",
+      "Description_raw": "Some terms are made unfair by legislation and will not be enforced by the courts and may even be interpreted against the person who included them in the contract. the legislation mainly protects consumers, but can also apply where there is a business-to-business contract in which one party is significantly more powerful than the other."
+    },
+    {
+      "Term_raw": "Ut Res Magis Valeat Quam Pereat",
+      "Description_raw": "Latin: It is better for a thing to have effect than to be made void."
+    },
+    {
+      "Term_raw": "Value analysis",
+      "Description_raw": "The breakdown of a price into its constituent cost elements (for example, labour, materials, administration, distribution, profit) to identify opportunities for reduction and/or a more cost-effective mix of resource inputs."
+    },
+    {
+      "Term_raw": "Value for money (VfM)",
+      "Description_raw": "Defined as quality (or fitness for purpose) and delivery against price, judged on whole-life costs and not simply initial costs. In the purchasing initiative a VfM improvement is defined as a benefit generated by the procurement organisation's initiative and achieved by an action beyond that arising from mechanistic order-placing."
+    },
+    {
+      "Term_raw": "Variation of price (VOP)",
+      "Description_raw": "Payment terms which provide for a change in price triggered by defined events - for example, an increase in the volume of sales above a defined level, or an increase in input costs as measured by a specified price index. Alternatively, a VOP clause may specify how any agreed change in the work to be done is to be priced."
+    },
+    {
+      "Term_raw": "Variety reduction",
+      "Description_raw": "Reduction in the numbers of types, sizes, grades etc of products purchased or held in stock. See also Standardisation."
+    },
+    {
+      "Term_raw": "Vendee",
+      "Description_raw": "The person to whom a property is sold."
+    },
+    {
+      "Term_raw": "Vendor",
+      "Description_raw": "The person who is selling a property."
+    },
+    {
+      "Term_raw": "Vendor Rating",
+      "Description_raw": "A form of supplier appraisal: a technique that awards 'marks' for a supplier's actual performance on a contract against a list of significant factors, with the supplier's 'scores' on the various factors totalled to give a broad indicator of overall performance. Aspects of performance critical to the buyer may also be weighted to stress their importance."
+    },
+    {
+      "Term_raw": "Verba Fortius Accipiuntur Contra Proferentem",
+      "Description_raw": "Latin: a contract is interpreted against the person who wrote it."
+    },
+    {
+      "Term_raw": "Vinculum Juris",
+      "Description_raw": "Latin: a legal bound."
+    },
+    {
+      "Term_raw": "Void or Void Ab Initio",
+      "Description_raw": "Not legally binding. A document that is void is useless and worthless; as if it did not exist."
+    },
+    {
+      "Term_raw": "Voidable",
+      "Description_raw": "A legal entitlement, such as a contract, that is extinguishable at the option of a party."
+    },
+    {
+      "Term_raw": "Wager of Law",
+      "Description_raw": "An ancient English law defence to a claim of contractual debt."
+    },
+    {
+      "Term_raw": "Waiver",
+      "Description_raw": "An intentional relinquishment or abandonment of a known right or privilege."
+    },
+    {
+      "Term_raw": "Warranties",
+      "Description_raw": "Promises made in a contract, but which are less than a condition. failure of a warranty results in liability to pay damages (see the financial terms below) but will not be a breach of contract unlike failure of a condition, which does breach the contract."
+    },
+    {
+      "Term_raw": "Warranties/conditions",
+      "Description_raw": "It is important to distinguish between clauses that are fundamental to the contract and those that are less vital. The former (fundamental ie going to the heart of the contract) are conditions, the latter (less vital clauses) warranties. An injured party may repudiate the contract without further obligation in the case of a breach of condition. A breach of warranty is not repudiatory and the claimant must continue the contract and claim damages."
+    },
+    {
+      "Term_raw": "Warranty",
+      "Description_raw": "A guarantee given on the performance of a product or the doing of a certain thing."
+    },
+    {
+      "Term_raw": "With Prejudice",
+      "Description_raw": "A statement or order that is conclusive between the parties as to the dispute between them."
+    },
+    {
+      "Term_raw": "Without prejudice",
+      "Description_raw": "A term used by solicitors in negotiations over disputes where an offer is made in an attempt to avoid going to court. if the case does go to court no offer or facts stated to be without prejudice can be disclosed as evidence. often misused by businesses during negotiations when they actually mean subject to contract."
+    },
+    {
+      "Term_raw": "Wound up",
+      "Description_raw": "Winding-up is the formal procedure for disbanding a company."
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "legislation": [
+    {
+      "name": "Bills of Exchange Act 1882",
+      "url": "https://www.legislation.gov.uk/ukpga/1882/61/pdfs/ukpga_18820061_en.pdf"
+    },
+    {
+      "name": "Companies Act 1985",
+      "url": "https://www.legislation.gov.uk/ukpga/1985/6/pdfs/ukpga_19850006_en.pdf"
+    },
+    {
+      "name": "Companies Act 2006",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/46/pdfs/ukpga_20060046_en.pdf"
+    },
+    {
+      "name": "Compensation Act 2006",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/29/pdfs/ukpga_20060029_en.pdf"
+    },
+    {
+      "name": "Consumer Credit Act 1974",
+      "url": "https://www.legislation.gov.uk/ukpga/1974/39/pdfs/ukpga_19740039_en.pdf"
+    },
+    {
+      "name": "Consumer Insurance (Disclosure and Representations) Act 2012",
+      "url": "https://www.legislation.gov.uk/ukpga/2012/6/pdfs/ukpga_20120006_en.pdf"
+    },
+    {
+      "name": "Consumer Protection (Distance Selling) Regulations 2000",
+      "url": "https://www.legislation.gov.uk/uksi/2000/2334/pdfs/uksi_20002334_en.pdf"
+    },
+    {
+      "name": "Consumer protection Act 1987",
+      "url": "https://www.legislation.gov.uk/ukpga/1987/43/pdfs/ukpga_19870043_en.pdf"
+    },
+    {
+      "name": "Consumer Protection from Unfair Trading Regulations 2008",
+      "url": "https://www.legislation.gov.uk/uksi/2008/1277/pdfs/uksi_20081277_en.pdf"
+    },
+    {
+      "name": "Contracts (Rights of Third Parties) Act 1999",
+      "url": "https://www.legislation.gov.uk/ukpga/1999/31/pdfs/ukpga_19990031_en.pdf"
+    },
+    {
+      "name": "Copyright, Designs and Patents Act 1988",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/pdfs/ukpga_19880048_en.pdf"
+    },
+    {
+      "name": "Damages Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/48/pdfs/ukpga_19960048_en.pdf"
+    },
+    {
+      "name": "Defamation Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/31/pdfs/ukpga_19960031_en.pdf"
+    },
+    {
+      "name": "Defamation Act 2013",
+      "url": "https://www.legislation.gov.uk/ukpga/2013/26/pdfs/ukpga_20130026_en.pdf"
+    },
+    {
+      "name": "Disability Discrimination Act 1995",
+      "url": "https://www.legislation.gov.uk/ukpga/1995/50/data.pdf"
+    },
+    {
+      "name": "Education Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/56/contents/data.pdf"
+    },
+    {
+      "name": "Electrical Equipment (Safety) Regulations Act 1994",
+      "url": "https://www.legislation.gov.uk/uksi/1994/3260/made/data.pdf"
+    },
+    {
+      "name": "Electronic Commerce (EC Directive) Regulations 2002",
+      "url": "https://webarchive.nationalarchives.gov.uk/20121212135622/https:/www.bis.gov.uk/files/file14635.pdf"
+    },
+    {
+      "name": "Electronic Communications Act 2000",
+      "url": "https://www.legislation.gov.uk/ukpga/2000/7/pdfs/ukpga_20000007_en.pdf"
+    },
+    {
+      "name": "Employer's Liability (Defective Equipment Act 1969",
+      "url": "https://www.legislation.gov.uk/ukpga/1969/37/body/data.pdf"
+    },
+    {
+      "name": "Employment Rights Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/18/data.pdf"
+    },
+    {
+      "name": "Environmental Protection Act 1990",
+      "url": "https://www.legislation.gov.uk/ukpga/1990/43/pdfs/ukpga_19900043_en.pdf"
+    },
+    {
+      "name": "European Communities Act 1972",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/68/pdfs/ukpga_19720068_en.pdf"
+    },
+    {
+      "name": "Family Law Reform Act 1969",
+      "url": "https://www.legislation.gov.uk/ukpga/1969/46/pdfs/ukpga_19690046_en.pdf"
+    },
+    {
+      "name": "Fatal Accidents Act 1976",
+      "url": "https://www.legislation.gov.uk/ukpga/1976/30/pdfs/ukpga_19760030_en.pdf"
+    },
+    {
+      "name": "Fires Prevention (Metropolis) Act 1774",
+      "url": "https://www.legislation.gov.uk/apgb/Geo3/14/78/data.pdf"
+    },
+    {
+      "name": "Gaming Act 1845",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/8-9/109/enacted/data.pdf"
+    },
+    {
+      "name": "Health and Safety at Work Act 1974",
+      "url": "https://www.legislation.gov.uk/ukpga/1974/37/pdfs/ukpga_19740037_en.pdf"
+    },
+    {
+      "name": "Health and Social Care (Community Health Standards) Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/43/pdfs/ukpga_20030043_en.pdf"
+    },
+    {
+      "name": "Highways Act 1980",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/66/pdfs/ukpga_19800066_en.pdf"
+    },
+    {
+      "name": "Housing Act 1985",
+      "url": "https://www.legislation.gov.uk/ukpga/1985/68/pdfs/ukpga_19850068_en.pdf"
+    },
+    {
+      "name": "Human Rights Act 1998",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/42/data.pdf"
+    },
+    {
+      "name": "Insurance Act 2015",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/4/pdfs/ukpga_20150004_en.pdf"
+    },
+    {
+      "name": "landlord and Tenant Act 1985",
+      "url": "https://www.legislation.gov.uk/ukpga/1985/70/data.pdf"
+    },
+    {
+      "name": "Latent Damage Act 1986",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/37/pdfs/ukpga_19860037_en.pdf"
+    },
+    {
+      "name": "Law of Property (Miscellaneous Provisions) Act 1989",
+      "url": "https://www.legislation.gov.uk/ukpga/1925/20/pdfs/ukpga_19250020_en.pdf"
+    },
+    {
+      "name": "Law Reform (Contributory Negligence) Act 1945",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/8-9/28/section/1/data.pdf"
+    },
+    {
+      "name": "Law Reform (Frustrated Contracts) Act 1943",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/6-7/40/data.pdf"
+    },
+    {
+      "name": "Limitation Act 1980",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/58/pdfs/ukpga_19800058_en.pdf"
+    },
+    {
+      "name": "Limitation Act 1980",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/58/pdfs/ukpga_19800058_en.pdf"
+    },
+    {
+      "name": "Local Government Act 1972",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/70/contents/data.pdf"
+    },
+    {
+      "name": "Marine Insurance Act 1906",
+      "url": "https://www.legislation.gov.uk/ukpga/Edw7/6/41/data.pdf"
+    },
+    {
+      "name": "Mental Capacity Act 2005",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/pdfs/ukpga_20050009_en.pdf"
+    },
+    {
+      "name": "Mental Health Act 1983",
+      "url": "https://www.legislation.gov.uk/ukpga/1983/20/pdfs/ukpga_19830020_en.pdf"
+    },
+    {
+      "name": "Merchant Shipping and Maritime Security Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/28/pdfs/ukpga_19970028_en.pdf"
+    },
+    {
+      "name": "Misrepresentation Act 1967",
+      "url": "https://www.legislation.gov.uk/ukpga/1967/7/data.pdf"
+    },
+    {
+      "name": "Nuclear Installations Act 1965",
+      "url": "https://www.legislation.gov.uk/ukpga/1965/57/pdfs/ukpga_19650057_en.pdf"
+    },
+    {
+      "name": "Occupiers' Liability Act 1957",
+      "url": "https://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/data.pdf"
+    },
+    {
+      "name": "Occupiers' Liability Act 1984",
+      "url": "https://www.legislation.gov.uk/ukpga/1984/3/data.pdf"
+    },
+    {
+      "name": "Partnership Act 1890",
+      "url": "https://www.legislation.gov.uk/ukpga/1890/39/pdfs/ukpga_18900039_en.pdf"
+    },
+    {
+      "name": "Patents Act 1977",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/647792/Consolidated_Patents_Act_1977_-_1_October_2017.pdf"
+    },
+    {
+      "name": "Police Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/50/pdfs/ukpga_19970050_en.pdf"
+    },
+    {
+      "name": "Police and Criminal Evidence Act 1984",
+      "url": "https://www.legislation.gov.uk/ukpga/1984/60/pdfs/ukpga_19840060_en.pdf"
+    },
+    {
+      "name": "Post Office Act 1969",
+      "url": "https://www.legislation.gov.uk/ukpga/1969/48/pdfs/ukpga_19690048_en.pdf"
+    },
+    {
+      "name": "Prison Act 1952",
+      "url": "https://www.legislation.gov.uk/ukpga/1952/52/pdfs/ukpga_19520052_en.pdf"
+    },
+    {
+      "name": "Protection from Harassment Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/40/pdfs/ukpga_19970040_en.pdf"
+    },
+    {
+      "name": "Race Relations Act 1976",
+      "url": "https://www.legislation.gov.uk/ukpga/1976/74/pdfs/ukpga_19760074_en.pdf"
+    },
+    {
+      "name": "Railways and Transport Safety Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/20/pdfs/ukpga_20030020_en.pdf"
+    },
+    {
+      "name": "Rehabilitation of Offenders Act 1974",
+      "url": "https://www.legislation.gov.uk/ukpga/1974/53/pdfs/ukpga_19740053_en.pdf"
+    },
+    {
+      "name": "Road Traffic Act 1972",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/20/pdfs/ukpga_19720020_en.pdf"
+    },
+    {
+      "name": "Road Traffic Act 1988",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/52/data.pdf"
+    },
+    {
+      "name": "Sale and Supply of Goods Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/35/pdfs/ukpga_19940035_en.pdf"
+    },
+    {
+      "name": "Sale and Supply of Goods to Consumers Regulations 2002",
+      "url": "https://www.legislation.gov.uk/uksi/2002/3045/pdfs/uksi_20023045_en.pdf"
+    },
+    {
+      "name": "Sale of Goods Act 1893",
+      "url": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf"
+    },
+    {
+      "name": "Sale of Goods Act 1979",
+      "url": "https://www.legislation.gov.uk/ukpga/1979/54/pdfs/ukpga_19790054_en.pdf"
+    },
+    {
+      "name": "Sex Discrimination Act 1975",
+      "url": "https://www.legislation.gov.uk/ukpga/1975/65/pdfs/ukpga_19750065_en.pdf"
+    },
+    {
+      "name": "Sexual Offences Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/42/pdfs/ukpga_20030042_en.pdf"
+    },
+    {
+      "name": "Slander of Women Act 1891",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/54-55/51/data.pdf"
+    },
+    {
+      "name": "Social Security (Recovery of Benefits) Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/27/pdfs/ukpga_19970027_en.pdf"
+    },
+    {
+      "name": "Supply of Goods (Implied Terms) Act 1973",
+      "url": "https://www.legislation.gov.uk/ukpga/1973/13/pdfs/ukpga_19730013_en.pdf"
+    },
+    {
+      "name": "Supply of Goods and Services Act 1982",
+      "url": "https://www.legislation.gov.uk/ukpga/1982/29/data.pdf"
+    },
+    {
+      "name": "Supreme Court Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/54/pdfs/ukpga_19810054_en.pdf"
+    },
+    {
+      "name": "The Law of Property Act 1989",
+      "url": "https://www.legislation.gov.uk/ukpga/1989/34/data.pdf"
+    },
+    {
+      "name": "Theatres Act 1968",
+      "url": "https://www.legislation.gov.uk/ukpga/1968/54/pdfs/ukpga_19680054_en.pdf"
+    },
+    {
+      "name": "Theft Act 1968",
+      "url": "https://www.legislation.gov.uk/ukpga/1968/60/pdfs/ukpga_19680060_en.pdf"
+    },
+    {
+      "name": "Torts (Interference with Goods) Act 1977",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/32/pdfs/ukpga_19770032_en.pdf"
+    },
+    {
+      "name": "Trade Descriptions Act 1968",
+      "url": "https://www.legislation.gov.uk/ukpga/1968/29/pdfs/ukpga_19680029_en.pdf"
+    },
+    {
+      "name": "Trade Marks Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/26/data.pdf"
+    },
+    {
+      "name": "Trade Union and Labour Relations (Consolidation) Act 1992",
+      "url": "https://www.legislation.gov.uk/ukpga/1992/52/pdfs/ukpga_19920052_en.pdf"
+    },
+    {
+      "name": "Unfair Contract Terms Act 1977",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/50/pdfs/ukpga_19770050_en.pdf"
+    },
+    {
+      "name": "Unsolicited Goods and Services Act 1971",
+      "url": "https://www.legislation.gov.uk/ukpga/1971/30/2014-06-13/data.pdf"
+    },
+    {
+      "name": "Vaccine Damage Payments Act 1979",
+      "url": "https://www.legislation.gov.uk/ukpga/1979/17/2008-11-03/data.pdf"
+    }
+  ]
+}
