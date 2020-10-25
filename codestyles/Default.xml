@@ -3,7 +3,7 @@
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="150" />
+    <option name="RIGHT_MARGIN" value="100" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
