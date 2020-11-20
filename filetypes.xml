@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="glossary" type="JSON" />
+      <mapping pattern="GlossaryDetailActivity" type="Kotlin" />
       <mapping pattern="Definition" type="Kotlin" />
       <mapping pattern="LegDetailActivity" type="Kotlin" />
-      <mapping pattern="GlossaryDetailActivity" type="Kotlin" />
       <mapping pattern="glossary.json" type="PLAIN_TEXT" />
       <mapping pattern="toolbar_Styling" type="XML" />
       <mapping pattern="styles-v21" type="XML" />
